@@ -1,0 +1,20 @@
+.country {
+    background: #fff000;
+    padding: 8px;
+}
+
+.middle {
+    text-align: center;
+}
+
+#gfg {
+    color: #009900;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#geeks {
+    text-align: center;
+    font-size: 20px;
+}

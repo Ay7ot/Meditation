@@ -1,0 +1,227 @@
+#bannerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+    font-size: 80px;
+    margin-bottom: 0%;
+}
+
+#headerparagrah {
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0%;
+}
+
+nav {
+    text-align: center;
+    padding: 8px;
+}
+
+.howtomeditate {
+    text-align: center;
+    color: #ff7f50;
+    font-size: 50px;
+}
+
+#htm {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-weight: 700;
+}
+
+#img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 1;
+    filter: sepia(50%);
+    width: 50%;
+}
+
+#htm1 {
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+#hr1 {
+    border: 5px solid aqua;
+}
+
+.hr2 {
+    border: 1px solid #000000;
+}
+
+.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 1;
+    filter: hue-rotate(50%);
+    padding: 10px;
+    height: 400px;
+    width: 40%;
+}
+
+.wim {
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 560px;
+    margin-bottom: 0%;
+}
+
+.what-is-meditation {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 560px;
+    margin-top: 0%;
+}
+
+.hr3 {
+    border: 3px solid #000000;
+}
+
+.how-to-learn {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    margin-left: 560px;
+    margin-right: 500px;
+    text-align: justify;
+}
+
+.hr4 {
+    border: 3px solid #ffc0cb;
+}
+
+.reasons {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    margin-left: 560px;
+    text-align: justify;
+}
+
+#list1 {
+    margin-left: 560px;
+    font-size: 20px;
+}
+
+.hm4 {
+    margin-left: 560px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.hmsim {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    margin-left: 560px;
+    margin-right: 500px;
+    text-align: justify;
+}
+
+.list2 {
+    margin-left: 560px;
+    margin-right: 500px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#span1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.img3 {
+    float: left;
+}
+
+#author {
+    background: #808080;
+    margin-left: 560px;
+    margin-right: 500px;
+    height: 150px;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.hm5 {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffe4c4;
+    text-align: justify;
+    margin-bottom: 5px;
+    padding-top: 15px;
+}
+
+.ay {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffe4c4;
+    text-align: justify;
+    margin-top: 5px;
+    margin-bottom: 0%;
+    font-weight: bold;
+}
+
+.p5 {
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffe4c4;
+    text-align: justify;
+    margin-top: 5px;
+}
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+}
+
+#fh {
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+th {
+    color: #ffffff;
+    height: 70px;
+    text-align: center;
+}
+
+td {
+    color: #ffffff;
+    height: 70px;
+    text-align: center;
+}
+
+table {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+td:hover {
+    background-color: #ff7f50;
+}
